@@ -21,6 +21,9 @@ A aplicação a ser desenvolvida deve permitir gerenciar pedidos de um restauran
 
 ### Requisitos Não Funcionais
 
+##Fluxograma
+<img width="1336" height="290" alt="Image" src="https://github.com/user-attachments/assets/d75e7cde-c6b5-446a-a693-be25c2702697" />
 ## Diagrama de Casos de Uso
-
+<img width="3381" height="808" alt="Image" src="https://github.com/user-attachments/assets/58bb5ef9-f07c-4e86-a9d6-a98ef83a4663" />
 ## Diagrama de Banco de Dados
+<img width="880" height="1093" alt="Image" src="https://github.com/user-attachments/assets/476f987c-82aa-41b0-8d15-cec08ff1b956" />
