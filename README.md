@@ -17,7 +17,7 @@
 
 Essa API faz parte de uma sequência de projetos com objetivo de praticar a parte de levantamento de requisitos, modelagem, escopagem e implementação de uma API Rest.
 
-A aplicação a ser desenvolvida deve permitir gerenciar pedidos de um restaurante, organizando pedidos por mesa, facilitando a vida do cliente no momento do pedido e dos responsáveis pela gerencia orquestração de .
+A aplicação a ser desenvolvida deve permitir gerenciar pedidos de um restaurante, organizando-os por mesa, facilitando a vida do cliente no momento do pedido e dos responsáveis pela gerencia e organização dos pedidos.
 
 ## Requsitos
 
