@@ -1,6 +1,6 @@
 {
   "name": "ambrosia-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API para gerenciar pedidos, clientes e produtos de restaurante",
   "main": "index.js",
   "type": "module",
