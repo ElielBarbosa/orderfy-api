@@ -10,4 +10,13 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+model product {
+  id Int @id @default(autoincrement())
+  name String @db.VarChar(255)
+  description String? @db.VarChar(255)
+  price Decimal @db.Decimal(6, 2)
+  created_at DateTime @default(now())
+  updated_at DateTime @default(now())
 
+  @@map("product")
+}
