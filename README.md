@@ -1,5 +1,9 @@
 # Ordefy
 
+<div align="center">
+  <img width="260" height="260" alt="Image" src="https://github.com/user-attachments/assets/7fb8bcac-d6be-43b8-8b3e-54fa5249248d" />
+</div>
+
 ## Índice
 
 - Descrição
@@ -21,6 +25,20 @@ A aplicação a ser desenvolvida deve permitir gerenciar pedidos de um restauran
 
 ### Requisitos Não Funcionais
 
+## Fluxograma
+
+<div align="center">
+  <img width="1883" height="507" alt="Image" src="https://github.com/user-attachments/assets/3154cc69-6cff-4898-947e-80331f7fe1b8" />
+</div>
+
 ## Diagrama de Casos de Uso
 
+<div align="center">
+  <img width="1571" height="933" alt="Image" src="https://github.com/user-attachments/assets/2a51e998-1d26-4da2-9ba5-0d5a9a27b313" />
+</div>
+
 ## Diagrama de Banco de Dados
+
+<div align="center">
+  <img width="1955" height="578" alt="Image" src="https://github.com/user-attachments/assets/54535522-3273-44ff-ae76-b1dd834882ee" />
+</div>
